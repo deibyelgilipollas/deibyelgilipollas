@@ -1,0 +1,23 @@
+.imagen{
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  width: 25%;
+  height: 70%;
+  left: 70%;
+  margin-top: 200px;
+  background-color:rgb(207, 207, 207);
+  border-radius: 30px;
+  color: rgb(211, 32, 23);
+}
+.imagen1{
+  position: absolute;
+  margin-top: 30%;
+  width: 80%;
+  height: 60%;
+}
+
+.menu1{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color:rgb(39, 175, 95);
+}
